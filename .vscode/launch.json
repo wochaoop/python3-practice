@@ -11,7 +11,7 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "justMyCode": true,
-            "python": "${fileDirname}/Python311/python.exe"
+            "python": "${fileDirname}\\Python311\\python.exe"
         }
     ]
 }
