@@ -11,7 +11,7 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "justMyCode": true,
-            "python": "${fileDirname}/python-3.11.2-embed-amd64/python.exe"
+            "python": "${fileDirname}/Python311/python.exe"
         }
     ]
 }
